@@ -1,2 +1,2 @@
 # first-website
-Made a basic website using HTML5, Bootstrap, PHP
+Made a basic website using HTML5, Bootstrap, PHP, JavaScript
